@@ -1,0 +1,11 @@
+C:\Users\ignac\OneDrive\Desktop\Parcial\bin\Debug\net7.0\Parcial.deps.json
+C:\Users\ignac\OneDrive\Desktop\Parcial\bin\Debug\net7.0\Parcial.dll
+C:\Users\ignac\OneDrive\Desktop\Parcial\bin\Debug\net7.0\Parcial.pdb
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.dll
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\refint\Parcial.dll
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\Parcial.pdb
+C:\Users\ignac\OneDrive\Desktop\Parcial\obj\Debug\net7.0\ref\Parcial.dll
